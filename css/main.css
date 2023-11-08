@@ -35,7 +35,7 @@ body {
 	width: calc(var(--index) * 36);
 	position: absolute;
 	left: 45vw;
-	top: 22vh;
+	top: 35vh;
 	z-index: -1;
 }
 .main-header {
