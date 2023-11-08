@@ -34,7 +34,7 @@ body {
 .hero {
 	width: calc(var(--index) * 36);
 	position: absolute;
-	left: 37vw;
+	left: 30vw;
 	top: 22vh;
 	z-index: -1;
 }
