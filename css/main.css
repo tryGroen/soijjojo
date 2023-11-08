@@ -32,14 +32,14 @@ body {
 	overflow-x: hidden;
 }
 .hero {
-	width: calc(var(--index) * 36);
+	width: calc(var(--index) * 45);
 	position: absolute;
 	left: 45vw;
 	top: 35vh;
 	z-index: -8;
 }
 .main-header {
-	height: 50vh;
+	height: 70vh;
 }
 .container {
 	padding: 0 7vw;
