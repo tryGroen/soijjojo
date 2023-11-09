@@ -25,7 +25,8 @@ h1, h2, h3, h4, h5, h6 {
 	will-change: transform;
 }
 body {
-	background-image: url(../img/bg.jpg);
+	
+	background-color: #0E0E0E;
 	background-size: 50px;
 	color: #fafafa;
 	font-family: raleway-c;
