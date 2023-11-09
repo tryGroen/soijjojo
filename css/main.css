@@ -5,8 +5,8 @@
 }
 :root {
 	--index: calc(1vw + 1vh);
-	--color-header: #0C0C0C;
-	--color-text: #cdc6c3;
+	--color-header: #FF88FF;
+	--color-text: #F1F1F1;
 	--gallery-gap: calc(var(--index) * 7.5)
 }
 @font-face {
